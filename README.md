@@ -1,5 +1,5 @@
 # Adv-data-viz-final
-Final Project for Advanced Data Visualization Course at Pratt
+## Final Project for Advanced Data Visualization Course at Pratt
 
 Using Restaurant Data provided by Yelp Open Dataset, this data exploration investigates how COVID-19 impacted restaurants in Philadelphia and in comparison to other major cities.
 
