@@ -3,7 +3,7 @@
 
 Using Restaurant Data provided by Yelp Open Dataset, this data exploration investigates how COVID-19 impacted restaurants in Philadelphia and in comparison to other major cities.
 
-The pandemic was an earthshatterer event that impacted everyone's lives for more than year and specific industries, such as the restaurant and hospitality, still feel the financial and cultural tremors as result of this world wide event.
+The pandemic was an earthshattering event that impacted everyone's lives for more than year and specific industries, such as the restaurant and hospitality, still feel the financial and cultural tremors as result of this world wide event.
 
 In this exploration, I aim to answer:
   1. What variables can best measure Covid's impact on restaurants in Philly?
