@@ -8,7 +8,7 @@ The pandemic was an earthshatterer event that impacted everyone's lives for more
 In this exploration, I aim to answer:
   1. What variables can best measure Covid's impact on restaurants in Philly?
   2. How did Covid impact these restaurants quantifiably?
-  3. How did Philly stand in comparison to other major cities (i.e. Phoenix and San Antonio)?
+  3. How did Philly stand in comparison to other major cities (i.e. Tucson and Indianapolis)?
 
 Reference Links:
 - Jupyter Notebook: https://jupyter.org/
